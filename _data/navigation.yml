@@ -9,19 +9,13 @@
 
 main:
   - title: "Blogs"
-    url: /posts/
+    url: /year-archive/
 
   - title: "Publications"
-    url: /publications/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/      
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
