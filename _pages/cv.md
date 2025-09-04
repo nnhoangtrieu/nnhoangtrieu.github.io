@@ -15,10 +15,15 @@ Education
 
 Work experience
 ======
-* *Jun 2025 - Aug 2025*: **Merck** - Modeling & Informatics Intern 
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* *Jun 2025 - Aug 2025*: **Merck (Boston, MA)** - Modeling & Informatics Intern 
+  * Incorporated physics-based method Schr¨odinger BioLuminate and custom predictive models into
+PepINVENT to optimize binding affinity, potency, and ADME properties in peptide design
+  * Fine-tuned peptide language model PeptideCLM for enhanced ADME prediction and descriptorbased model CheMeleon for improved potency prediction, exceeding internal benchmarks.
+  * Enhanced PepINVENT with a multi-agent framework that can learn the most impactful residue
+positions to optimize and outperforms the original version in multi-parameter peptide optimization.
+  *  Enabled pretraining of PepINVENT on internal cyclic peptide data for a production-ready model
+by developing an algorithm to convert HELM sequences into structured data and expand datasets
+through synthetic generation and augmentation.
 
 * Fall 2015: Research Assistant
   * GitHub University
