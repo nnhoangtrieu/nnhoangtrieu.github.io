@@ -9,7 +9,7 @@
 
 main:
   - title: "Blogs"
-    url: /blogs/
+    url: /posts/
 
   - title: "Publications"
     url: /publications/    
