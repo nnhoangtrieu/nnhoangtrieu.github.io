@@ -22,7 +22,7 @@ repository               : "nnhoangtrieu/nnhoangtrieu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Trieu Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "B.S. Applied Math & Physics, University of South Florida"
