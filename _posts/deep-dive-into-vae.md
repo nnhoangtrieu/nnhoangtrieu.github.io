@@ -1,7 +1,7 @@
 ---
 title: 'Deep dive into Variational Autoencoder'
 date: 2025-09-04
-permalink: /posts/deep-dive-into-vae/
+permalink: /posts/2025/09/deep-dive-into-vae/
 tags:
   - cool posts
   - category1
