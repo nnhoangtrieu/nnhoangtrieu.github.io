@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Trieu Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "B.S. Applied Math & Physics, University of South Florida"
+  location         : "Tampa, FL"
+  employer         : "University of South Florida"
   uri              : # URL
   email            : "none@example.org" 
 
