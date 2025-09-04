@@ -49,14 +49,14 @@ Publications
   
 Talks
 ======
-* **"AI for Drug Design,"** *Computational and Quantitative Medicine Department.* City of HOpe, Duarte, CA, February 2025
+* **"AI for Drug Design,"** *Computational and Quantitative Medicine Department.* City of Hope, Duarte, CA, February 2025
 
 * **"Transformer Graph Variational Autoencoder for Drug Design"**
   * *AI+X Symposium.* University of South Florida, Tampa, FL, October 2024 
   * *EMERGE Research in Progress.* Moffitt Cancer Center, Tampa, FL, May 2024 
   * *Oncological Data Science (ODSi) Meeting.* Moffitt Cancer Center, Tampa, FL, April 2024
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->
